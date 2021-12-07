@@ -1,0 +1,15 @@
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+# togoalone==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+numpy==1.19.4
+redis==3.3.8
+rq==1.1.0
+Werkzeug==0.15.5
+pathos==0.2.7
+scipy==1.6.0
+PyYAML==5.4.1
+matplotlib==3.3.3
+pandas==1.2.1
